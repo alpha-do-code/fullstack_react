@@ -1,0 +1,11 @@
+[
+  {
+    "_id": "690db39a87e4141c28287e2e",
+    "username": "default",
+    "email": "default@example.com",
+    "password": "$2b$10$eaNRC.vWw1tUbYfE0tY7xejVfvlQfZhglGOMk2FMncoPUgk31uq.q",
+    "createdAt": "2025-11-07T08:53:46.142Z",
+    "__v": 0,
+    "id": "690db39a87e4141c28287e2e"
+  }
+]

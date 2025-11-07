@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "690db5280820ffe8e6a452fb",
+    "id": "061b9083-ddf4-4f73-8545-ddc55fbe27f2",
+    "title": "React",
+    "description": "description",
+    "completed": false,
+    "priority": "low",
+    "dueDate": "2025-11-07",
+    "user": {
+      "_id": "690db39a87e4141c28287e2e",
+      "username": "default",
+      "id": "690db39a87e4141c28287e2e"
+    },
+    "createdAt": "2025-11-07T09:00:24.603Z",
+    "__v": 0
+  },
+  {
+    "_id": "690db5370820ffe8e6a452fe",
+    "id": "16d70926-ca47-438c-86d8-838d23c04d93",
+    "title": "Laravel",
+    "description": "votre description",
+    "completed": false,
+    "priority": "low",
+    "dueDate": null,
+    "user": {
+      "_id": "690db39a87e4141c28287e2e",
+      "username": "default",
+      "id": "690db39a87e4141c28287e2e"
+    },
+    "createdAt": "2025-11-07T09:00:39.931Z",
+    "__v": 0
+  }
+]

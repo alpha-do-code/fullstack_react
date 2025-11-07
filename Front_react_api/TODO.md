@@ -1,0 +1,8 @@
+- [x] Update Dashboard.tsx: Change header background from cyan-500 to blue-500
+- [x] Update Login.tsx: Replace all cyan color classes with blue equivalents (bg-cyan-500 -> bg-blue-500, bg-cyan-600 -> bg-blue-600, etc.)
+- [x] Update Register.tsx: Replace all cyan color classes with blue equivalents
+- [x] Update TaskList.tsx: Change filter buttons - "Actives" to red (danger), "Complétées" to green (success)
+- [x] Update TaskItem.tsx: Change priority colors to blue shades (high: red-600 -> blue-800, medium: yellow-600 -> blue-600, low: green-600 -> blue-400), change delete icon from red to blue-700
+- [x] Test the changes to ensure same functionality with blue theme (app running on localhost:5174)
+- [x] Add user profile icon next to username in Dashboard header
+- [x] Change logout button to green color in Dashboard
